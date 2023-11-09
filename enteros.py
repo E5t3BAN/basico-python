@@ -1,5 +1,5 @@
 #!/usr/bin/env python
 #_*_ coding: utf8 _*_
-
-entero = 10
+#se actualizo
+entero = 18
 print(type(entero))
